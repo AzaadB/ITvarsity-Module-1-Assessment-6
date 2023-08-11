@@ -1,0 +1,231 @@
+h1,
+h2,
+h3,
+h4 {
+  font-family: "Times New Roman";
+  color: white;
+  background-color: crimson;
+  width: 100%;
+  height: auto;
+}
+
+.products img {
+  width: 400px;
+  height: auto;
+}
+
+img {
+  width: 400px;
+  height: auto;
+}
+table {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  border-collapse: collapse;
+  border-width: 15px;
+  border-style: solid;
+  border-color: tomato;
+}
+
+td {
+  width: 700px;
+  background-image: url("./images/DIA.jpg");
+  color: white;
+  font-weight: bold;
+}
+
+tr {
+  width: 200px;
+}
+
+.pic {
+  width: 100px;
+  height: auto;
+  float: left;
+}
+
+body {
+  background-image: url("./images/colorful-crystal-background.jpg");
+}
+
+nav {
+  margin: 20px;
+  padding: 10px;
+  background-color: antiquewhite;
+}
+
+nav ul {
+  list-style: none;
+  margin: 2px;
+  padding: 15px;
+  font-style: normal;
+}
+
+nav li {
+  display: inline-block;
+  padding: 5px 5px;
+}
+
+nav a {
+  font-weight: normal;
+  padding: 10px 5px;
+  font-size: 0.8em;
+  color: darkmagenta;
+}
+
+/*--------------------------------------------------------------
+  # About Us
+  --------------------------------------------------------------*/
+#about {
+  font-size: medium;
+  background-color: tomato;
+  width: 100%;
+}
+
+.section-title {
+  width: 100%;
+  background-color: crimson;
+  color: white;
+  text-decoration-color: white;
+  font-size: medium;
+}
+
+.gif {
+  width: 100px;
+  height: auto;
+  display: grid;
+  float: left;
+  gap: 5px;
+}
+.img {
+  width: 100px;
+  height: auto;
+  filter: invert(100%);
+}
+
+/*--------------------------------------------------------------
+  # Contact
+  --------------------------------------------------------------*/
+body {
+  font-size: large;
+}
+
+.container {
+  width: 100%;
+  background-color: gold;
+  color: white;
+  height: auto;
+  margin-left: 8px;
+  padding-left: 25px;
+}
+
+.contact .info {
+  width: 100%;
+  background: blueviolet;
+  font-style: italic;
+}
+
+.contact .info i {
+  font-size: 100%;
+  color: #009961;
+  float: left;
+  line-height: 1;
+}
+
+.contact .info h4 {
+  padding: 0 0 0 60px;
+  font-size: 22px;
+  font-weight: 600;
+  margin-bottom: 5px;
+  color: white;
+}
+
+.contact .info p {
+  padding: 0 0 0 60px;
+  margin-bottom: 0;
+  font-size: 14px;
+  color: white;
+}
+
+.contact .info .email,
+.contact .info .phone {
+  margin-top: 40px;
+}
+
+.contact .php-email-form {
+  width: 100%;
+  background: #fff;
+}
+
+.contact .php-email-form .form-group {
+  padding-bottom: 8px;
+}
+
+.mapouter {
+  width: 100%;
+  height: auto;
+}
+
+/*--------------------------------------------------------------
+  # Footer
+  --------------------------------------------------------------*/
+#footer {
+  background: blue;
+  color: blue;
+  font-size: 14px;
+  text-align: center;
+  padding: 30px 0;
+}
+
+#footer h3 {
+  font-size: 36px;
+  font-weight: 700;
+  color: #fff;
+  position: relative;
+  font-family: "Poppins", sans-serif;
+  padding: 0;
+  margin: 0 0 15px 0;
+}
+
+#footer p {
+  font-size: 15;
+  font-style: italic;
+  padding: 0;
+  margin: 0 0 40px 0;
+}
+
+.social-links {
+  width: 100%;
+  height: auto;
+  background-color: white;
+}
+
+p{
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.form{
+    width: 100%;
+    height: auto;
+    font-style: oblique;
+  }
+
+  .btn{
+    background-color: violet;
+    padding: 25px;
+  }
+
+  .form{
+    width: 100%;
+    height: auto;
+    font-style: oblique;
+  }
+
+  .btn:hover{
+    background-color: white;
+    padding: 25px;
+  }
+ 
+
+  
+  
+  
